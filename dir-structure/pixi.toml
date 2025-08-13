@@ -1,0 +1,10 @@
+[workspace]
+authors = ["Sina Shamsian <snshamsi@uci.edu>"]
+channels = ["conda-forge"]
+name = "dir-structure"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
